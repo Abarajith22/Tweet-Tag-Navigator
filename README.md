@@ -53,7 +53,7 @@ pip install -r requirments.txt
 
 ## Installation and Running
 
-- Clone the repository to your local machine using the command ``` git clone https://github.com/MuthuPalaniappan925/TweetTagNavigator.git```
+- Clone the repository to your local machine using the command ``` git clone https://github.com/Abarajith22/Tweet-Tag-Navigator.git```
 - Navigate to the project directory using the command ```cd TweetTagNavigator```.
 - Install the required dependencies using the command ```pip install -r requirements.txt```.
 - Run the command ```flask run``` to start the server.
